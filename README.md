@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Sourav Bera (Research Scholar) at Tata Institute of Fundamental Research (TIFR), Mumbai, India.
-- 👀 I’m interested in the Physics of Heavy Ion Collisions.
-- 🌱 I’ve built physically driven dynamic models (Relativistic Viscous Hydrodynamic model) to probe the Physics of Heavy Ion Collisions. 
+- 👋 Hi, I’m Sourav Bera, a Research Scholar at Tata Institute of Fundamental Research (TIFR), Mumbai, India.
+- 👀 I’m interested in the Phenomenology of Heavy Ion Collisions which aims at understanding Quantum Chromodynamics. I also take keen interest in Particle Physics and Cosmology.
+- 🌱 I’ve built physically driven dynamic models, namely, Monte-Carlo Glauber Model and Ideal Relativistic Hydrodynamics(using FCT-SHASTA, HLLE and KT) to probe the Physics of Heavy Ion Collisions. 
 - 💞️ I’m looking to unravel the mysteries of the cosmos through the language of physics.
-- 📫 How to reach me : Email id. : berasourav2698@gmail.com
+- 📫 How to reach me : Email id. : berasourav2698@gmail.com / sourav.bera@tifr.res.in
 
-<!---
-Sourav2698/Sourav2698 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
